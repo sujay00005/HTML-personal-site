@@ -1,0 +1,25 @@
+body {
+  background-color: #add8e6;
+}
+
+hr {
+  border-style: none;
+  border-top-style: dotted;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+
+h1{
+  color: #0039a6;
+}
+
+h3{
+  color: #0039a6;
+}
+
+  /*
+  <!-- background-color:-----;border-style: dotted none non; -->
+  < !-- we can specify sides to apply the style to -->
+  < !-- we can define the height in pixels(30px) as well as % (10%) -->
+  */
